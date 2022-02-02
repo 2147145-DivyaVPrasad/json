@@ -1,0 +1,12 @@
+{"employees":[
+    {"id":1, "name":"Rohan", "email":"rohan@gmail.com","department":"HR", "salary":200000, "gender":"female"},
+    {"id":2, "name":"Divya", "email":"divya@gmail.com","department":"CONSTRUCTION", "salary":180000, "gender":"female"},
+    {"id":3, "name":"Avya", "email":"avya@gmail.com","department":"DESIGNING", "salary":170000, "gender":"female"},
+    {"id":4, "name":"Roopam", "email":"roopam@gmail.com","department":"ACCOUNTS", "salary":300000, "gender":"male"},
+    {"id":5, "name":"Tanya", "email":"tanya@gmail.com","department":"SECURITY", "salary":10000, "gender":"female"},
+    {"id":6, "name":"Amal", "email":"amal@gmail.com","department":"HR", "salary":78000, "gender":"male"},
+    {"id":7, "name":"Jyotish", "email":"jyotish@gmail.com","department":"CONSTRUCTION", "salary":200000, "gender":"female"},
+    {"id":8, "name":"Teena", "email":"teena@gmail.com","department":"SECURITY", "salary":120000, "gender":"female"},
+    {"id":9, "name":"Meena", "email":"meena@gmail.com","department":"ACCOUNTS", "salary":45000, "gender":"male"},
+    {"id":10, "name":"Roy", "email":"roy@gmail.com","department":"CONSTRUCTION", "salary":10000, "gender":"female"}
+]}
