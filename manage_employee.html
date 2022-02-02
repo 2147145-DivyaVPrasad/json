@@ -91,13 +91,13 @@
                          </thead>
                          <tbody>
                          <!-- <tr ng-repeat="x in myData | limitTo:rowlimit | orderBy:'age' | filter:searchId | orderBy:myOrderBy"> -->
-                        <tr class="table-red" ng-repeat="x in myData | limitTo:rowlimit |  filter:searchEmployee | orderBy:myOrderBy | filter:search">
+                        <tr class="table-secondary" ng-repeat="x in myData | limitTo:rowlimit |  filter:searchEmployee | orderBy:myOrderBy | filter:search">
                              <td scope="row">{{x.id}}</td>
-                             <td >{{x.name  | myfilter}}</td>
+                             <td >{{x.name | myfilter}}</td>
                              <td>{{x.email}}</td>
                              <td>{{x.department | myfilter}}</td>
                              <td>{{x.salary | currency}}</td>
-                             <td>{{x.gender | gender:limit}}</td>
+                             <td>{{x.gender}}</td>
                          </tr>
                          </tbody>
                 
@@ -112,7 +112,14 @@
 
 
     <script src=./script.js></script>
-  
+    <!-- <script src="assets/js/feather-icons/feather.min.js"></script>
+    <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="assets/js/app.js"></script>
+
+    <script src="assets/vendors/simple-datatables/simple-datatables.js"></script>
+    <script src="assets/js/vendors.js"></script>
+
+    <script src="assets/js/main.js"></script> -->
 </body>
 
 </html>

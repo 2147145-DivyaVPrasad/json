@@ -26,17 +26,3 @@ app.filter("myfilter",function()
     }
 });
 
-
-app.filter("gender",function()
-{
-    return function(input,option)
-    {
-        if(isNaN(option)||(option==""))
-        {
-            return input;
-        }
-        else {
-        return input.substring(0,option).toUpperCase();
-    }}
-})
-
