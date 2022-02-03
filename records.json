@@ -1,4 +1,4 @@
-{"tenants" : [
+{"records" : [
     {"custid":101,"custname":"RANU","contact":6296763420,"member":2},
     {"custid":102,"custname":"VICKY","contact":6296763421,"member":3},
     {"custid":103,"custname":"VISHAL","contact":6296763422,"member":2},
