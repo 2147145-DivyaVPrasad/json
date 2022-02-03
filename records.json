@@ -1,0 +1,10 @@
+{"tenants" : [
+    {"custid":101,"custname":"RANU","contact":6296763420,"member":2},
+    {"custid":102,"custname":"VICKY","contact":6296763421,"member":3},
+    {"custid":103,"custname":"VISHAL","contact":6296763422,"member":2},
+    {"custid":104,"custname":"AYUSH","contact":6296763423,"member":5},
+    {"custid":105,"custname":"ANISH","contact":6296763424,"member":1},
+    {"custid":106,"custname":"SUMI","contact":6296763425,"member":5},
+    {"custid":107,"custname":"NAVIN","contact":6296763426,"member":0}
+
+]}
